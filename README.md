@@ -16,7 +16,7 @@ View a simple sample website [here](https://adaanswers.github.io/group-fansite-e
 
 ## Project Requirements
 
-### Only Use Static HTML and CSS
+### Only Use Static HTML and CSS 
 
 We should only use static HTML and CSS for this project. Preprocessors (haml, erb, sass, less, etc.) and Javascript of any kind are not allowed. All submitted HTML needs to pass as valid HTML through an [HTML Validator](https://validator.w3.org/).
 
