@@ -1,6 +1,33 @@
 * h2{
-    color: brown;
+    color: #9B6B4E;
     margin-top: 20px;
 }
 
+.my-style{
+    font: 100;
+    font-size: large;
+    color: #9B6B4E;
+    font-style: inherit;
+    margin-top: 20px;
+}
 
+/* Centers the image horizontally */
+#my-fun-biryani {
+    text-align: center;
+}
+
+#my-fun-biryani img {
+    width: 100%; /* Adjusts the image width to 50% of its container */
+    max-width: 600px; /* Sets a maximum width so it doesn’t get too large */
+    height: auto; /* Keeps the aspect ratio consistent */
+}
+
+#funfacts{
+    color: darkslategrey;
+}
+
+.black-text {
+    color: black;
+    font-style:Merriweather;
+    font-size: smaller;
+}
